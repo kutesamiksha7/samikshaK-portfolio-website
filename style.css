@@ -711,7 +711,7 @@ body .btn:hover{
 .right-event-text{
     position: absolute;
     left: -90px;
-    top: 53px;
+    bottom: 125px;
 }
 .right-event-text:after {
     content: '';
